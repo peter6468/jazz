@@ -1,3 +1,16 @@
+Giphy Clicky
+Giphy Clicky is a memory game built on react.
+
+It has 12 giphys. You click an image to earn points and the game ends if an image is clicked twice.
+To learn more about react please look at the bottom of the page.
+How to use:
+
+visit:
+Here is a screenshot: screen shot 2018-09-27 at 8 44 21 am
+
+This Project in maintained by peter6468 and users can contact him to get help.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

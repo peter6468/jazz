@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo:400,700,900');
+ * {
+  box-sizing: border-box;
+}
 body {
+  font-family: 'Notable';
+}
+
+body,html, #root {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  height: 100%;
 }

@@ -1,0 +1,35 @@
+nav {
+    width: 100%;
+    font-size: 4rem;
+    color: #fff;
+    margin-bottom: 50px;
+    height: auto;
+    font-family: "Bungee", bold;
+    background-color: #ECDB54
+}
+
+a {
+    color: #8B008B
+}
+
+a:hover {
+    color: #8B008B  
+}
+
+nav li {
+    display: inline-block;
+    padding: 26 px, 0;
+    width: 20%;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 750px) {
+    #cur-sco,
+    #top-sco {
+        font-size: 3rem;
+    }
+}

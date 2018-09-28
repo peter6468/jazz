@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://78.media.tumblr.com/24de2e3b8db9334a6e5a9ace4ae6c8e6/tumblr_nkhgrb75Sd1untn9io1_500.gif",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://78.media.tumblr.com/eb50c58450498a824c09b5452ac75d69/tumblr_mt8i44a7LY1shmmm1o1_400.gif",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://media2.giphy.com/media/wxWUPbgbwHmww/200.gif?cid=e1bb72ff5bab9b34574c64456f80c47b",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://media3.giphy.com/media/Tv7nRPkmpwMc8/200.gif?cid=e1bb72ff5bab9b34574c64456f80c47b",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://media0.giphy.com/media/gGIIeWGGbvgjK/200.gif?cid=e1bb72ff5bab9c1a312e2e654184fa79",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://media2.giphy.com/media/687qS11pXwjCM/200.gif?cid=e1bb72ff5baad45e6e4e415767d08dd5",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://media1.giphy.com/media/12Z0sobC3YwsBW/200.gif?cid=e1bb72ff5bab9b34574c64456f80c47b",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://media1.giphy.com/media/W4NKtcOqK2kYo/200.gif?cid=e1bb72ff5bab9d177a594f7732c7e18b",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://media2.giphy.com/media/3jJEr6TfuoI9y/200.gif?cid=e1bb72ff5bab9d177a594f7732c7e18b",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://media3.giphy.com/media/dbysYxMmJkY0w/200.gif?cid=e1bb72ff5baad58b616373796b3228dd",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://media3.giphy.com/media/3o85xwUMUmE1AaVIfm/200.gif?cid=e1bb72ff5bab9b34574c64456f80c47b",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://media2.giphy.com/media/l4FGy2fVTyKcueZaM/200.gif?cid=e1bb72ff5baad58b616373796b3228dd",
+      "clicked": false
+    }
+]
+
