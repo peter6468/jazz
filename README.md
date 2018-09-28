@@ -6,7 +6,9 @@ To learn more about react please look at the bottom of the page.
 How to use:
 
 visit:
-Here is a screenshot: screen shot 2018-09-27 at 8 44 21 am
+Here is a screenshot: 
+
+![screen shot 2018-09-28 at 2 12 12 pm](https://user-images.githubusercontent.com/36605965/46225867-8b6bb500-c328-11e8-911b-243c519d9ca8.png)
 
 This Project in maintained by peter6468 and users can contact him to get help.
 
